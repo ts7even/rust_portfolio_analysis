@@ -8,6 +8,9 @@
 
 
 <h2> Dependencies </h2>
-    cargo add serde --features derive
-    cargo add ndarray 
-    cargo add ndarray-stats
+    
+<li> 
+cargo add serde --features derive </li>
+<li> cargo add ndarray </li>
+<li> cargo add ndarray-stats</li>
+    
